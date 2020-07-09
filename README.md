@@ -13,10 +13,6 @@
 ### Something I'm currrently working on:
 
 - [A project](https://github.com/davisrbr/bookRecognition) with the goal of converting an image of a bookshelf to a list of books.
-<p align="center">
-  <img src="https://github.com/davisrbr/davisrbr/blob/master/media/books.png" alt="Image of my shelf" width="300"/>
-</p>
-
 
 **I do** a lot of computer vision work, and also work at the intersection of machine learning and geospatial research. If any of this interests you (or just want to talk physics, philosophy, statistics, effective altruism, etc.), don't hesitate to drop me a line on my [Twitter](https://twitter.com/davisbrownr).  
 
