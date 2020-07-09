@@ -5,7 +5,7 @@
 - Modeling students on the UNC-CH campus for a fall 2020 restart scenarios. Find the website [here](https://davisrbr.github.io/fall2020unc/).
 
 <p align="center">
-  <img src="media/geographic_slice.png" alt="Student movements" width="500"/>
+  <img src="https://github.com/davisrbr/davisrbr/blob/master/media/geographic_slice.png" alt="Student movements" width="500"/>
 </p>
 
 - Implementing the (discrete) Quantum Random Walk search algorithm. Notebook [here](https://github.com/nickk124/quantumsearch/blob/master/random_walk_search.ipynb).
@@ -14,7 +14,7 @@
 
 - [A project](https://github.com/davisrbr/bookRecognition) with the goal of converting an image of a bookshelf to a list of books.
 <p align="center">
-  <img src="media/books.png" alt="Image of my shelf" width="300"/>
+  <img src="https://github.com/davisrbr/davisrbr/blob/master/media/books.png" alt="Image of my shelf" width="300"/>
 </p>
 
 
