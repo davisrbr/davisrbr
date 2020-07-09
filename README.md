@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 I'm Davis Brown - davisrbr
 
-<!--
-**davisrbr/davisrbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some stuff I built in the last ~month:
 
-Here are some ideas to get you started:
+- Modeling students on the UNC-CH campus for a fall 2020 restart scenarios. Find the website [here](https://davisrbr.github.io/fall2020unc/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Implementing the (discrete) Quantum Random Walk search algorithm. Notebook [here](https://github.com/nickk124/quantumsearch/blob/master/random_walk_search.ipynb)
+
+### Something I'm currrently working on:
+
+- [A project](https://github.com/davisrbr/bookRecognition) with the goal of converting an image of a bookshelf to a list of books.
+
+**I do** a lot of computer vision work, and also work at the intersection of machine learning and geospatial research. If any of this interests you (or just want to talk physics, philosophy, statistics, effective altruism, etc.), don't hesitate to drop me a line on my [Twitter](https://twitter.com/davisbrownr).  
