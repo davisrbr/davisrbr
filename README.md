@@ -2,13 +2,13 @@
 
 ### Some stuff I built in the last ~month:
 
-- Modeling students on the UNC-CH campus for a fall 2020 restart scenarios. Find the website [here](https://davisrbr.github.io/fall2020unc/).
+- Modeling students on the UNC-CH campus for a fall 2020 restart scenarios. Find the [website here](https://davisrbr.github.io/fall2020unc/).
 
 <p align="center">
   <img src="https://github.com/davisrbr/davisrbr/blob/master/media/geographic_slice.png" alt="Student movements" width="500"/>
 </p>
 
-- Implementing the (discrete) Quantum Random Walk search algorithm. Notebook [here](https://github.com/nickk124/quantumsearch/blob/master/random_walk_search.ipynb).
+- Implementing the (discrete) Quantum Random Walk search algorithm. [Notebook here](https://github.com/nickk124/quantumsearch/blob/master/random_walk_search.ipynb).
 
 ### Something I'm currrently working on:
 
