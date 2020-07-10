@@ -17,7 +17,7 @@
 **I do** a lot of computer vision work, and also work at the intersection of machine learning and geospatial research. If any of this interests you (or just want to talk physics, philosophy, statistics, effective altruism, etc.), don't hesitate to drop me a line on my [Twitter](https://twitter.com/davisbrownr).  
 
 ### ⚡ Something I hope to get to: 
-Again, [let me know](https://twitter.com/davisbrownr) if you have feedback/interest. 
 
 - A web app for calibration training targeted at specific interests/populations. A good general version is [Open Philanthropy's calibration training](https://www.openphilanthropy.org/calibration). It might increase reach/impact if we target questions at specific topics; prime examples are for sports or for local current events at a university, but I think academic-ish topics like "history of physics" could be high reach as well. 
 
+Again, [let me know](https://twitter.com/davisbrownr) if you have feedback/interest!
