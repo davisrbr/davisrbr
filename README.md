@@ -1,6 +1,6 @@
 ## I'm Davis Brown - davisrbr 👋 
 
-### 🤖 Some stuff I built in the last ~month:
+### 🤖 Some stuff I built in the last couple of months:
 
 - I worked with UNC admin to model students on the campus for a fall 2020 restart scenarios. Find the [website here](https://davisrbr.github.io/fall2020unc/).
 
