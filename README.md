@@ -14,7 +14,7 @@
 
 - [A project](https://github.com/davisrbr/bookRecognition) with the goal of converting an image of a bookshelf to a list of books.
 
-  [Let me know](https://twitter.com/davisbrownr) if you have feedback/interest!
+[Let me know](https://twitter.com/davisbrownr) if you have feedback/interest!
 
 **I do** a lot of computer vision work, and have also worked at the intersection of machine learning and geospatial research. I have a growing interest in interpretability as well! I am currently a Post-Bachelors in the Math of Machine Learning at PNNL. 
 
