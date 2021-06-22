@@ -2,7 +2,7 @@
 
 ### 🤖 Some stuff I've built somewhat recently
 
-- I am [putting lights on houses](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py).
+- [Putting lights on houses](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py).
 
 - I worked with UNC admin to model students on the campus for fall restart scenarios. Find the [website here](https://davisrbr.github.io/fall2020unc/).
 
