@@ -14,6 +14,6 @@
 
 [Let me know](https://twitter.com/davisbrownr) if you have feedback/interest!
 
-I am currently do deep learning work/research in the Math of Machine Learning at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
+I'm currently doing deep learning work/research in the Math of Machine Learning at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
 
 If any of this interests you (or you just want to talk physics, philosophy, statistics, EA, etc.), don't hesitate to drop me a line on my [Twitter](https://twitter.com/davisbrownr).  
