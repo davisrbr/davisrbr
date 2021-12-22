@@ -1,8 +1,9 @@
 ## I'm Davis Brown - davisrbr 👋 
 
 ### 🤖 Some stuff I've built somewhat recently
+- [Brittle interpretations](https://arxiv.org/abs/2110.07120)
 
-- [Putting lights on houses](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py).
+- [Putting lights on houses](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py)
 
 - I worked with UNC admin to model students on the campus for fall restart scenarios. Find the [website here](https://davisrbr.github.io/fall2020unc/).
 
@@ -10,7 +11,7 @@
 
 ### 🔨 Something I'm currrently working on
 
-- [A project](https://github.com/davisrbr/bookRecognition) with the goal of converting an image of a bookshelf to a list of books.
+- [A project](https://lookshelf.app/) with the goal of converting an image of a bookshelf to a list of books.
 
 [Let me know](https://twitter.com/davisbrownr) if you have feedback/interest!
 
