@@ -1,6 +1,6 @@
-## I'm Davis Brown - davisrbr 👋 
+## I'm Davis Brown
 
-### 🤖 Some stuff I've built somewhat recently
+### 🤖 Things I've built somewhat recently
 - [Brittle interpretations](https://arxiv.org/abs/2110.07120)
 
 - [Putting lights on houses](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py)
@@ -17,4 +17,4 @@
 
 I'm currently doing deep learning work and research in the Math of Machine Learning at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
 
-If any of this interests you (or you just want to talk physics, philosophy, statistics, EA, etc.), don't hesitate to drop me a line on my [Twitter](https://twitter.com/davisbrownr).  
+If any of this interests you (or you just want to talk physics, philosophy, stats, machine learning, EA, etc.), don't hesitate to drop me a line on my [twitter](https://twitter.com/davisbrownr).
