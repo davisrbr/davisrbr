@@ -1,6 +1,6 @@
 ## I'm Davis Brown
 
-### 🤖 Things I've built somewhat recently
+### 🤖 Things I've done more or less recently
 - [On the Symmetries of Deep Learning Models and their Internal Representations](
  https://arxiv.org/abs/2205.14258)
  
