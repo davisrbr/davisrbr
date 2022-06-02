@@ -1,6 +1,9 @@
 ## I'm Davis Brown
 
 ### 🤖 Things I've built somewhat recently
+- [On the Symmetries of Deep Learning Models and their Internal Representations](
+ https://arxiv.org/abs/2205.14258)
+ 
 - [Brittle interpretations](https://arxiv.org/abs/2110.07120)
 
 - [Putting lights on houses](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py)
