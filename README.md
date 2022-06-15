@@ -8,7 +8,7 @@
  
 - An attack on concept-based interpretability methods for deep learning. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers @ ICML 2022.
 
-- An interpretability library. Code on [here](https://github.com/pnnl/DeepDataProfiler) and accompanying [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
+- An interpretability library. Code [here](https://github.com/pnnl/DeepDataProfiler) and accompanying [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
 - Putting lights on houses with unpaired image-to-image translation. [Demo here](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py).
 
