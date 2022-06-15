@@ -2,16 +2,15 @@
 
 ### 🔨 Some (more or less) recent projects and papers
 
-- [An app](https://lookshelf.app/) (now on TestFlight!) with the goal of converting an image of a bookshelf to a list of books.
+- An app (now on TestFlight!) that converts an image of a bookshelf to a list of books. [Sign up here](https://lookshelf.app/).
 
-- [On the Symmetries of Deep Learning Models and their Internal Representations](
- https://arxiv.org/abs/2205.14258).
+- On the Symmetries of Deep Learning Models and their Internal Representations. [Paper link](https://arxiv.org/abs/2205.14258).
  
-- [An attack on concept-based interpretability methods for deep learning](https://arxiv.org/abs/2110.07120).
+- An attack on concept-based interpretability methods for deep learning. [Arxiv link](https://arxiv.org/abs/2110.07120).
 
-- [An interpretability library](https://github.com/pnnl/DeepDataProfiler) and [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
+- An interpretability library. Code on [here](https://github.com/pnnl/DeepDataProfiler) and accompanying [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
-- [Putting lights on houses with unpaired image-to-image translation](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py).
+- Putting lights on houses with unpaired image-to-image translation. [Demo here](https://share.streamlit.io/davisrbr/holiday-lights/main/main.py).
 
 - I worked with UNC admin to model students on the campus for fall restart scenarios. Find the [website here](https://davisrbr.github.io/fall2020unc/).
 
