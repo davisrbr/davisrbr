@@ -6,7 +6,7 @@
 
 - On the Symmetries of Deep Learning Models and their Internal Representations. [Paper link](https://arxiv.org/abs/2205.14258).
  
-- An attack on concept-based interpretability methods for deep learning. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers @ ICML 2022.
+- An adversarial attack on concept-based interpretability methods. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers @ ICML 2022.
 
 - An interpretability library. Code [here](https://github.com/pnnl/DeepDataProfiler) and accompanying [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
