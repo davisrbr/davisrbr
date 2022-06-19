@@ -1,6 +1,6 @@
 ## I'm Davis Brown
 
-I'm do deep learning work and research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
+I do deep learning work and research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
 
 If any of this interests you, don't hesitate to drop me a line on my gmail {first name}{last name}r or on [twitter](https://twitter.com/davisbrownr).
 
