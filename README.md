@@ -2,7 +2,7 @@
 
 I do deep learning work and research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
 
-If any of this interests you, don't hesitate to drop me a line on my gmail {first name}{last name}r or on [twitter](https://twitter.com/davisbrownr).
+If any of this interests you, don't hesitate to drop me a line at {first name}{last name}r@gmail.com, [twitter](https://twitter.com/davisbrownr), or [curius](https://curius.app/davis-brown).
 
 ### 📝 Papers
 - On the Symmetries of Deep Learning Models and their Internal Representations. [Paper link](https://arxiv.org/abs/2205.14258).
