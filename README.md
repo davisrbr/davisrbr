@@ -1,6 +1,8 @@
 ## I'm Davis Brown
 
-I do deep learning work and research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning.
+I do deep learning work and research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning. 
+
+I'm also into effective altruism, a huge Robert Caro fan, and have been recently diving deep into what philosophy has to say about concepts (inspired by [this Brandom talk](http://ceur-ws.org/Vol-444/paper13.pdf)!).
 
 If any of this interests you, drop me a line at {first name}{last name}r@gmail.com, [twitter](https://twitter.com/davisbrownr), or [curius](https://curius.app/davis-brown).
 
