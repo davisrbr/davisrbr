@@ -11,9 +11,9 @@ If any of this interests you, drop me a line at {first name}{last name}r@gmail.c
  
 - An adversarial attack on concept-based interpretability methods. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers @ ICML 2022.
 
-### 🔨 Some (more or less) recent projects
+- The SVD of Convolutional Weights: A CNN Interpretability Framework. [Arxiv link](https://arxiv.org/abs/2208.06894), accompanying [interpretability library](https://github.com/pnnl/DeepDataProfiler) and a (somewhat dated) [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
-- An interpretability library. Code [here](https://github.com/pnnl/DeepDataProfiler) and accompanying [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
+### 🔨 Some (more or less) recent projects
 
 - An app (now on TestFlight!) that converts an image of a bookshelf to a list of books. [Sign up here](https://lookshelf.app/).
 
