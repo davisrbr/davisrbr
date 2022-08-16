@@ -4,7 +4,7 @@ I do deep learning work and research in the Math of Machine Learning group at PN
 
 I'm also into effective altruism, a huge Robert Caro fan, and have been recently diving deep into what philosophy has to say about concepts (inspired by [this Brandom talk](http://ceur-ws.org/Vol-444/paper13.pdf)!).
 
-If any of this interests you, drop me a line at {first name}{last name}r@gmail.com, [twitter](https://twitter.com/davisbrownr), or [curius](https://curius.app/davis-brown).
+If any of this is interesting, drop me a line at {first name}{last name}r@gmail.com, [twitter](https://twitter.com/davisbrownr), or [curius](https://curius.app/davis-brown).
 
 ### 📝 Papers
 - On the Symmetries of Deep Learning Models and their Internal Representations. [Paper link](https://arxiv.org/abs/2205.14258).
