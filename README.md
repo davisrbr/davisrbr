@@ -2,7 +2,7 @@
 
 I do research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning. 
 
-I'm also into effective altruism, a huge Robert Caro fan, and have been recently diving deep into what philosophy has to say about concepts, inspired by [this Brandom talk](http://ceur-ws.org/Vol-444/paper13.pdf)!
+I'm also a huge Robert Caro fan, into effective altruism, and have been recently diving deep into what philosophy has to say about concepts, inspired by [this Brandom talk](http://ceur-ws.org/Vol-444/paper13.pdf)!
 
 If any of this is interesting, drop me a line at {my first name}brownr@gmail.com or [twitter](https://twitter.com/davisbrownr). Or you can find my on [Google Scholar](https://scholar.google.com/citations?hl=en&user=zQEbpYYAAAAJ&view_op=list_works&sortby=pubdate) or [curius](https://curius.app/davis-brown).
 
