@@ -1,17 +1,17 @@
 ## I'm Davis Brown
 
-I do deep learning work and research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning. 
+I do research in the Math of Machine Learning group at PNNL. I'm particularly interested in interpretability, adversarial examples, and semi-supervised learning. 
 
-I'm also into effective altruism, a huge Robert Caro fan, and have been recently diving deep into what philosophy has to say about concepts (inspired by [this Brandom talk](http://ceur-ws.org/Vol-444/paper13.pdf)!).
+I'm also into effective altruism, a huge Robert Caro fan, and have been recently diving deep into what philosophy has to say about concepts, inspired by [this Brandom talk](http://ceur-ws.org/Vol-444/paper13.pdf)!
 
-If any of this is interesting, drop me a line at {first name}{last name}r@gmail.com, [twitter](https://twitter.com/davisbrownr), or [curius](https://curius.app/davis-brown).
+If any of this is interesting, drop me a line at {my first name}brownr@gmail.com or [twitter](https://twitter.com/davisbrownr). Or you can find my on [Google Scholar](https://scholar.google.com/citations?hl=en&user=zQEbpYYAAAAJ&view_op=list_works&sortby=pubdate) or [curius](https://curius.app/davis-brown).
 
 ### 📝 Papers
 - On the Symmetries of Deep Learning Models and their Internal Representations. [Paper link](https://arxiv.org/abs/2205.14258).
  
 - An adversarial attack on concept-based interpretability methods. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers @ ICML 2022.
 
-- The SVD of Convolutional Weights: A CNN Interpretability Framework. [Arxiv link](https://arxiv.org/abs/2208.06894), accompanying [interpretability library](https://github.com/pnnl/DeepDataProfiler) and a (somewhat dated) [streamlit demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
+- The SVD of Convolutional Weights: A CNN Interpretability Framework. [Arxiv link](https://arxiv.org/abs/2208.06894), accompanying [interpretability library](https://github.com/pnnl/DeepDataProfiler) and a (somewhat dated) [demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
 ### 🔨 Some (more or less) recent projects
 
