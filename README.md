@@ -9,7 +9,7 @@ If any of this is interesting, drop me a line at {my first name}brownr@gmail.com
 ### Papers
 - On the Symmetries of Deep Learning Models and their Internal Representations. [Arxiv link](https://arxiv.org/abs/2205.14258). Appearing at Neurips, 2022.
  
-- An adversarial attack on concept-based interpretability methods. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers at ICML 2022.
+- An adversarial attack on concept-based interpretability methods. [Arxiv link](https://arxiv.org/abs/2110.07120). In AdvML Frontiers at ICML, 2022.
 
 - The SVD of Convolutional Weights: A CNN Interpretability Framework. [Arxiv link](https://arxiv.org/abs/2208.06894), accompanying [interpretability library](https://github.com/pnnl/DeepDataProfiler) and a (somewhat dated) [demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
