@@ -13,7 +13,7 @@ If any of this is interesting, drop me a line at {my first name}brownr@gmail.com
 
 - The SVD of Convolutional Weights: A CNN Interpretability Framework. [Arxiv link](https://arxiv.org/abs/2208.06894), accompanying [interpretability library](https://github.com/pnnl/DeepDataProfiler) and a (somewhat dated) [demo](https://share.streamlit.io/pnnl/deepdataprofiler/frontend/main_streamlit.py).
 
-### Some (more or less) recent projects
+#### Some (more or less) recent projects
 
 - An app (now on TestFlight!) that converts an image of a bookshelf to a list of books. [Sign up here](https://lookshelf.app/).
 
